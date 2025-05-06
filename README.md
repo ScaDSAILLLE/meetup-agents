@@ -1,6 +1,6 @@
 # meetup-agents
 
-<a href="https://ibb.co/m5gsf3YF"><img src="https://i.ibb.co/LdHwV3qh/grafik.png" alt="grafik" border="0" width="200"></a>
+<a href="https://ibb.co/m5gsf3YF"><img src="https://i.ibb.co/LdHwV3qh/grafik.png" alt="grafik" border="0" width="800"></a>
 
 ## Get started
 
